@@ -1,0 +1,18 @@
+.graphs {
+    font: 10px sans-serif !important;
+    background-color: aliceblue;
+}
+
+.graphs .axis .line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.graphs .bar {
+    fill: steelBlue;
+}
+
+.graphs .x.axis path {
+    display: none;
+}
